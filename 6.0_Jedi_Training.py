@@ -4,6 +4,7 @@ Sign your name: Danny Halstead
 
 1.) Convert Binary 101010 to Hexadecimal.
 
+
 2.) Convert Binary 11101001 to Octal.
 
 3.) Convert Hexadecimal FC to Binary.
