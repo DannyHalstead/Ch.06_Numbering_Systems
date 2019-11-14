@@ -8,7 +8,7 @@ Sign your name: Danny Halstead
 351
 
 3.) Convert Hexadecimal FC to Binary.
-11111100
+1111100  <------------- Fixed this one, I had an extra 1 before.
 
 4.) Convert Hexadecimal 1F to Decimal.
 11111
